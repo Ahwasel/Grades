@@ -3,7 +3,7 @@ student_id = '20201000071'
 
 print('Name: ', student_name)
 print('ID: ', student_id)
-input ('mark: ')
+
 def calculate_grade (mark):
     grade=''
     if mark >= 81:
