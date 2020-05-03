@@ -21,3 +21,5 @@ def calculate_grade (mark):
     return grade 
 
 print('python programming 101: ', calculate_grade(87))
+print('math: ', calculate_grade(81))
+print('physics: ', calculate_grade(71))
